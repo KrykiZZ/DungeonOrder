@@ -1,0 +1,8 @@
+## Title: DungeonOrder
+## Version: 1.0.0
+## AddOnVersion: 16
+## APIVersion: 101038
+## Author: KrykiZZ
+## Description: Order LFG dungeons in alphabetical order.
+
+DungeonOrder.lua
